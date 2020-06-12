@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+statsmodels
+pip install keras
+sklearn
+scikit-image
+python versio 3.7.3
+jupyter notebook
+
+tensorflow-gpu==2.1.0
