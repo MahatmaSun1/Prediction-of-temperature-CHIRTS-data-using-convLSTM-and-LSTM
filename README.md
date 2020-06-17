@@ -45,3 +45,10 @@ Prediction of temperature CHIRTS data using convLSTM and LSTM
 
 cuda_10.0.130_411.31_win10
 
+pip install numpy matplotlib pandas statsmodels sklearn scikit-image jupyter notebook
+
+python versio 3.7.3
+
+
+conda install keras
+
